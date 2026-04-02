@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CTIP - Cryptographic Threat Intelligence Platform v3.0
+TriThreatFusion – Multi-Layer Malware Detection Platform
 Simple and clean malware scanner
 """
 import argparse
