@@ -1,4 +1,4 @@
-# CTIP - Cryptographic Threat Intelligence Platform
+# CTIP - Cryptographic Threat Intelligence
 
 ## 🔐 Project Overview
 
