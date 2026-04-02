@@ -1,4 +1,4 @@
-# CTIP - Cryptographic Threat Intelligence
+# CTI - Cryptographic Threat Intelligence
 
 ## 🔐 Project Overview
 
